@@ -3,3 +3,4 @@ stest
 config.h
 *.orig
 *.rej
+*.o
